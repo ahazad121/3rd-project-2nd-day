@@ -1,0 +1,63 @@
+header{
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    height: 400px;
+    background-color: darkkhaki;
+    width: 20%;
+    float: left;
+}
+.center{
+    height: 400px;
+    background-color: rgb(224, 212, 38);
+    width: 60%;
+    float: left;
+
+}
+.right{
+    height: 400px;
+    background-color: rgb(80, 76, 27);
+    width: 20%;
+    float: right;
+
+}
+.upper{
+    height: 25%;
+    background-color: darkolivegreen;
+}
+.middle{
+    height: 50%;
+    background-color: rgb(150, 231, 9);
+}
+.lower{
+    height: 25%;
+    background-color: darkolivegreen;
+}
+.first{
+    background-color: darkblue;    
+    width: 30%;
+    float: left;
+    height: 200px;
+}
+.second{
+    background-color: rgb(94, 94, 221);    
+    width: 40%;
+    float: left;
+    height: 200px;
+    text-align: center;}
+.third{
+    background-color: darkblue;    
+    width: 30%;
+    float: left;
+    height: 200px;
+}
+footer{
+    height: 100px;
+    background-color: blueviolet;
+}
